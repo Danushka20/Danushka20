@@ -11,11 +11,15 @@ Back-End:  PHP
 Databases: MySQL
 programming language: JAVA,KOTLIN,C#
 Tools: Visual Studio Code, Git, Figma,Netbean,android studio
+
 🔭 Current Projects:
 E-commerce Platform at Cargills (Ceylon) Plc: Working as a business analyst to enhance user experience and streamline operations.
 'Furni' Furniture Web Store: Developing a comprehensive database for a furniture e-commerce platform.
+
 🌱 Learning:
 Exploring advanced project management techniques to further improve efficiency and productivity in road construction projects.
+
+
 💬 Let's Connect:
 LinkedIn
 Twitter
