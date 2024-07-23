@@ -9,7 +9,9 @@ I'm a versatile developer and project manager with a passion for creating effici
 Front-End: HTML, CSS, JavaScript, React, A
 Back-End:  PHP
 Databases: MySQL
+
 programming language: JAVA,KOTLIN,C#
+
 Tools: Visual Studio Code, Git, Figma,Netbean,android studio
 
 🔭 Current Projects:
