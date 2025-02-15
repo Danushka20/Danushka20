@@ -1,7 +1,7 @@
 # <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&color=F7D01E&background=FF000000&center=true&vCenter=true&repeat=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Dhanushka+Harshana)](https://git.io/typing-svg)</div>
 
 <div align="center">
-  
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1F8BF7&background=FF000000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%93%9A;Let's+Create+Something+Great!+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
@@ -39,14 +39,6 @@ const dhanushka = {
   <img src="https://github-readme-stats.vercel.app/api?username=Danushka&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danushka&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<!-- Cool Contribution Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danushka&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
 
 
 
