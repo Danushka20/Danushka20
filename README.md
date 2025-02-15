@@ -5,7 +5,6 @@
 </div>
 
 ## 🚀 About Me
-```javascript
 const dhanushka = {
     code: ["JavaScript", "Python", "Java", "HTML", "CSS"],
     technologies: {
@@ -23,7 +22,7 @@ const dhanushka = {
     },
     currentFocus: "Building robust and scalable web applications"
 };
-```
+
 
 ## 📊 GitHub Stats
 <div align="center">
