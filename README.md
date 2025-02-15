@@ -8,7 +8,7 @@
 
 <h2 align="center">🎯 Current Focus</h2>
 
-```typescript
+
 type TechStack = {
     frontend: string[];
     backend: string[];
@@ -45,7 +45,7 @@ class Developer {
         ];
     }
 }
-```
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
