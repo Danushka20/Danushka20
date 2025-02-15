@@ -32,45 +32,31 @@ const dhanushka = {
 
 <div align="center">
   <h3>🔥 My Stats</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danushka&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Danushka&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danushka&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <!-- Cool Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danushka&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
-<h2 align="center">🌟 Projects</h2>
 
-<div align="center">
-  <a href="https://github.com/YOUR_USERNAME/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project2&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
 
-<h2 align="center">📊 This Week I Spent My Time On</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true" alt="WakaTime Stats"/>
-</div>
 
 <!-- Snake Animation -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Danushka/Danushka/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Danushka/Danushka/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Danushka/Danushka/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
