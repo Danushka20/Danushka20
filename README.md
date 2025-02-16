@@ -13,7 +13,7 @@
 <h2 align="center">💫 About Me</h2>
 
 ```javascript
-const dhanushka = {
+const Dhanushka = {
     pronouns: "he/him",
     location: "Sri Lanka 🌏",
     currentFocus: "Building awesome web applications",
@@ -68,7 +68,7 @@ const dhanushka = {
 
 <!-- Profile Views Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Danushka&style=for-the-badge&color=blue" alt="Profile Views"/>
 </div>
 
 <!-- Wave Footer -->
